@@ -9,7 +9,7 @@
 
 I am a Master's candidate in Responsible Management at the University of Geneva (GPA 5.10/6.0), with a professional background spanning HR management, corporate communications, business development, and data analysis across Nepal, India, and Switzerland.
 
-My academic work sits at the intersection of sustainability, strategy, organisational behaviour, and data-driven decision-making. I am genuinely curious about how organisations can create value responsibly — for people, for business, and for the planet.
+My academic work sits at the intersection of sustainability, strategy, organisational behaviour, and data-driven decision-making. I am genuinely curious about how organisations can create value responsibly - for people, for business, and for the planet.
 
 I bring hands-on professional experience managing people and processes in healthcare, working with international stakeholders across cultures, and translating complex information into clear, actionable outputs. I am currently developing my business intelligence skills through Power BI and continue to build on self-taught expertise in Tableau and SPSS.
 
