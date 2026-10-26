@@ -64,8 +64,8 @@ This repository contains academic projects and reports produced during my MSc pr
 
 | Role | Organisation | Period |
 |---|---|---|
-| HR & Marketing Executive | Manmohan Memorial Medical Hospital | 2021 – 2024 |
-| Business Development Associate | Uptechsys Pvt. Ltd | 2021 |
+| HR & Marketing Officer | Manmohan Memorial Medical Hospital | 2021 – 2024 |
+| Business Development Officer | Uptechsys Pvt. Ltd | 2021 |
 | Management Trainee | Cholamandalam Insurance & Finance (with BCG) | 2019 – 2020 |
 | Media Analyst | Genpact (Pfizer account) | 2016 – 2017 |
 | Marketing Communication Intern | DoubleTree by Hilton | 2018 |
